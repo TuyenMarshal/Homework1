@@ -1,0 +1,34 @@
+#intro {
+  margin-top: 200px;
+}
+
+
+.biopic {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+#biography {
+
+  margin-top: 200px;
+}
+
+hr {
+height: 15px;
+width: 100%;
+margin-top: 45px;
+background-color:purple;
+border: none;
+}
+
+#photo{
+  margin-top: 150px;
+}
+#hr2 {
+height: 10px;
+width: 100%;
+margin-top: 45px;
+background-color:purple;
+border: none;
+}
