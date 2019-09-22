@@ -37,3 +37,13 @@ border: none;
   margin-top: 30px;
 
  }
+
+ #navibg {
+   background-color: #17a2b8;
+   margin: 0px -15px 0px -15px;
+ }
+
+ .nav-link {
+   color: pink;
+   font-size: 30px;
+ }
