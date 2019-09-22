@@ -4,33 +4,27 @@
 
 
 .biopic {
+  margin-top: 150px;
   height: 300px;
   width: 300px;
   border-radius: 50%;
 }
 
 #biography {
-
-  margin-top: 200px;
+  margin-top: 50px;
 }
 
 hr {
 height: 15px;
 width: 100%;
-margin-top: 45px;
 background-color:purple;
 border: none;
+margin-top: 0px;
+margin-bottom: 0px;
 }
 
 #photo{
   margin-top: 150px;
-}
-#hr2 {
-height: 10px;
-width: 100%;
-margin-top: 45px;
-background-color:purple;
-border: none;
 }
 
 #navibar {
@@ -39,11 +33,38 @@ border: none;
  }
 
  #navibg {
-   background-color: #17a2b8;
+   background-image: linear-gradient(to bottom left, #17a2b8 50%, white 50%);
    margin: 0px -15px 0px -15px;
  }
-
+#biobg {
+  background-image: linear-gradient(to bottom, yellow 80%, white 20%);
+  margin: 0px -15px 0px -15px;
+}
  .nav-link {
    color: pink;
    font-size: 30px;
+ }
+
+ #leon-image {
+    margin-top: 25px;
+    height: 150px; 
+    width: 150px
+ }
+
+ .biopage {
+  margin-top:25px; 
+  background-image: linear-gradient(to bottom, purple 90%, white 10%);
+  color: white;
+ }
+
+ .btn {
+   background-color: red;
+   margin-top: 20px;
+ }
+
+ .footer {
+   background-color: black;
+   color: white;
+   margin: 0px -15px 0px -15px;
+   height: 60px;
  }
