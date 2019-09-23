@@ -1,7 +1,10 @@
+.container-fluid {
+  padding: 0px 0px;
+}
+
 #intro {
   margin-top: 200px;
 }
-
 
 .biopic {
   margin-top: 150px;
@@ -34,7 +37,7 @@ margin-bottom: 0px;
 
  #navibg {
    background-image: linear-gradient(to bottom left, #17a2b8 50%, white 50%);
-   margin: 0px -15px 0px -15px;
+   margin: 0px 0px;
  }
 #biobg {
   background-image: linear-gradient(to bottom, yellow 80%, white 20%);
@@ -66,6 +69,14 @@ margin-bottom: 0px;
  .footer {
    background-color: black;
    color: white;
-   margin: 0px -15px 0px -15px;
+   margin: 0px 0px;
    height: 60px;
  }
+
+ img, iframe, button {
+  -webkit-box-shadow: 11px 10px 5px 0px rgba(168,144,168,1);
+-moz-box-shadow: 11px 10px 5px 0px rgba(168,144,168,1);
+box-shadow: 11px 10px 5px 0px rgba(168,144,168,1);
+}
+   
+ 
